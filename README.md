@@ -1,2 +1,2 @@
 # HuffmanAgaci
-Huffman agacı ve görselleştirilmesini kodladım. Saddece görselleşme kısmında internetten yararlandım.
+Huffman agacını python dili ile kodladim. Sadece gorsellestirme kisminda internet kaynaklarindan yararlandim.
